@@ -36,12 +36,6 @@ Provides:
 - Average settlement rate
 - Channel preference by age group
 
-## Tools Used
-- Power BI
-- Excel
-- Data Visualization
-- Business Analysis
-
 ## Key Insights
 - Offline agents generate the highest revenue contribution.
 - Customers aged 36–45 contribute the most revenue.
@@ -51,6 +45,35 @@ Provides:
 - Dashboard PBIX
 - Dashboard Mockup (PDF)
 - Feature List (Excel)
+
+ ## Dashboard Preview
+
+### Business Insights Dashboard
+![Dashboard Overview](dashboard_overview.png)
+
+### Sales Channel Performance
+![Sales Channel Analysis](sales_channel_analysis.png)
+
+### Customer Age Group Insights
+![Age Group Insights](age_group_insights.png)
+
+## Key Business Insights
+
+• Offline Agents generate the highest revenue contribution.
+
+• Customers aged 36–45 contribute the largest share of revenue.
+
+• Delhi NCR shows the highest revenue among all cities.
+
+• Online channels show steady growth in customer acquisition.
+
+## Tools & Technologies
+
+- Power BI
+- Data Visualization
+- Excel
+- Business Intelligence
+- Data Analysis
 
 ## Author
 Raj Pashilkar
